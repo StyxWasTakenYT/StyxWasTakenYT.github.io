@@ -10,7 +10,9 @@
     scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
 }
-
+.MadeSoWork {
+    font-size: 50px
+}
 :root {
     --bg-color: #081b29;
     --second-bg-color: #112e42;
